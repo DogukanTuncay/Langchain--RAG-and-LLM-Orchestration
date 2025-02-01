@@ -1,0 +1,7 @@
+# Sanal ortamları (venv) hariç tut
+venv/
+.env
+*.env
+**/.env
+**/venv/
+**/venv/*
